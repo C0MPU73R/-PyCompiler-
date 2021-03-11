@@ -13,7 +13,7 @@
 * PYC++ Converts the set modules into c++, then it compiles the modules into a .pyd file. Then PYC++ compiles a __main__ also specified, into an exe which decrypts the .pyd and runs the game.
 * Please Note: The compiler is in heavy development, don't expect perfect results!
 
-# Original Author to whom this project was writen by:
+# Original Author to whom this project was written by:
 * SkippsDev / Caleb Marshall (https://www.github.com/cmarshall108)
 
 # Original Uploader of the project to which this fork is based on:
